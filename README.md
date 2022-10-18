@@ -1,7 +1,8 @@
 ![Im Ayodeji (1)](https://user-images.githubusercontent.com/35904766/196478268-f519c582-376e-4f95-ad9a-fc4690a6acf9.gif)
 
 <h1 align="center">Hi 👋, I'm Ayodeji Abidemi</h1>
-<h3 align="center">A passionate full stack Web developer from Nigeria.</h3>
+<h3 align="center">A passionate full stack Web developer from Nigeria :sunglasses:</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=demix007&label=Profile%20views&color=0e75b6&style=flat" alt="demix007" /> </p>
 
