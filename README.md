@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=demix007" alt="demix007" /></a> </p>
 
-- 🔭 I’m currently working on [To-Do-List Web App](https://github.com/demix007/To-Do-List-P2P-Review)
+- 🔭 I’m currently working on [Math-Magicians](https://github.com/demix007/math-magicians)
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 👯 I’m looking to collaborate on [Awesome Books With ES6](https://github.com/demix007/AWESOME-BOOKS-WITH-ES6)
+- 👯 I’m looking to collaborate on [Math-Magicians]https://github.com/demix007/math-magicians)
 
 - 👨‍💻 All of my projects are available at [https://github.com/demix007/Portfolio-setup-and-mobile-first](https://github.com/demix007/Portfolio-setup-and-mobile-first)
 
