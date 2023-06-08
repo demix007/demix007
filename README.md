@@ -39,4 +39,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=demix007&show_icons=true&locale=en" alt="demix007" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=demix007&" alt="demix007" /></p>
+<p><img align="center" src="[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=demix007)](https://git.io/streak-stats)" alt="demix007" /></p>
